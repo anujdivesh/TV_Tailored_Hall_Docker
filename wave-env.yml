@@ -1,0 +1,9 @@
+name: TV_report
+channels:
+  - defaults
+dependencies:
+  - conda-forge::copernicusmarine
+  - anaconda::beautifulsoup4
+  - conda-forge::matplotlib
+  - anaconda::scipy
+prefix: /home/judith/anaconda3/envs/TV_report

@@ -1,0 +1,1370 @@
+nohup: ignoring input
+NetcdfDatataset read from ../tmp/wind_tmp_000.grib2 write to ../tmp/wind_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_003.grib2 write to ../tmp/wind_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_006.grib2 write to ../tmp/wind_tmp_006.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_009.grib2 write to ../tmp/wind_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_012.grib2 write to ../tmp/wind_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_015.grib2 write to ../tmp/wind_tmp_015.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_018.grib2 write to ../tmp/wind_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_021.grib2 write to ../tmp/wind_tmp_021.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_024.grib2 write to ../tmp/wind_tmp_024.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_027.grib2 write to ../tmp/wind_tmp_027.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_030.grib2 write to ../tmp/wind_tmp_030.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_033.grib2 write to ../tmp/wind_tmp_033.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_036.grib2 write to ../tmp/wind_tmp_036.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_039.grib2 write to ../tmp/wind_tmp_039.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_042.grib2 write to ../tmp/wind_tmp_042.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_045.grib2 write to ../tmp/wind_tmp_045.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_048.grib2 write to ../tmp/wind_tmp_048.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_051.grib2 write to ../tmp/wind_tmp_051.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_054.grib2 write to ../tmp/wind_tmp_054.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_057.grib2 write to ../tmp/wind_tmp_057.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_060.grib2 write to ../tmp/wind_tmp_060.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_063.grib2 write to ../tmp/wind_tmp_063.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_066.grib2 write to ../tmp/wind_tmp_066.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_069.grib2 write to ../tmp/wind_tmp_069.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_072.grib2 write to ../tmp/wind_tmp_072.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_075.grib2 write to ../tmp/wind_tmp_075.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_078.grib2 write to ../tmp/wind_tmp_078.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_081.grib2 write to ../tmp/wind_tmp_081.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_084.grib2 write to ../tmp/wind_tmp_084.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_087.grib2 write to ../tmp/wind_tmp_087.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_090.grib2 write to ../tmp/wind_tmp_090.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_093.grib2 write to ../tmp/wind_tmp_093.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_096.grib2 write to ../tmp/wind_tmp_096.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_099.grib2 write to ../tmp/wind_tmp_099.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_102.grib2 write to ../tmp/wind_tmp_102.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_105.grib2 write to ../tmp/wind_tmp_105.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_108.grib2 write to ../tmp/wind_tmp_108.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_111.grib2 write to ../tmp/wind_tmp_111.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_114.grib2 write to ../tmp/wind_tmp_114.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_117.grib2 write to ../tmp/wind_tmp_117.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_120.grib2 write to ../tmp/wind_tmp_120.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_123.grib2 write to ../tmp/wind_tmp_123.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_126.grib2 write to ../tmp/wind_tmp_126.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_129.grib2 write to ../tmp/wind_tmp_129.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_132.grib2 write to ../tmp/wind_tmp_132.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_135.grib2 write to ../tmp/wind_tmp_135.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_138.grib2 write to ../tmp/wind_tmp_138.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_141.grib2 write to ../tmp/wind_tmp_141.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_144.grib2 write to ../tmp/wind_tmp_144.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_147.grib2 write to ../tmp/wind_tmp_147.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_150.grib2 write to ../tmp/wind_tmp_150.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_153.grib2 write to ../tmp/wind_tmp_153.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_156.grib2 write to ../tmp/wind_tmp_156.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_159.grib2 write to ../tmp/wind_tmp_159.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_162.grib2 write to ../tmp/wind_tmp_162.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_165.grib2 write to ../tmp/wind_tmp_165.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_168.grib2 write to ../tmp/wind_tmp_168.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_171.grib2 write to ../tmp/wind_tmp_171.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_174.grib2 write to ../tmp/wind_tmp_174.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_177.grib2 write to ../tmp/wind_tmp_177.nc finished=true
+NetcdfDatataset read from ../tmp/wind_tmp_180.grib2 write to ../tmp/wind_tmp_180.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_000.grib2 write to ../tmp/wave_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_003.grib2 write to ../tmp/wave_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_006.grib2 write to ../tmp/wave_tmp_006.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_009.grib2 write to ../tmp/wave_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_012.grib2 write to ../tmp/wave_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_015.grib2 write to ../tmp/wave_tmp_015.nc finished=true
+Grib file downloaded and stored as ../tmp/wind_tmp_000.grib2
+../tmp/wind_tmp_000.grib2 converted to ../tmp/wind_tmp_000.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_003.grib2
+../tmp/wind_tmp_003.grib2 converted to ../tmp/wind_tmp_003.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_006.grib2
+../tmp/wind_tmp_006.grib2 converted to ../tmp/wind_tmp_006.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_009.grib2
+../tmp/wind_tmp_009.grib2 converted to ../tmp/wind_tmp_009.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_012.grib2
+../tmp/wind_tmp_012.grib2 converted to ../tmp/wind_tmp_012.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_015.grib2
+../tmp/wind_tmp_015.grib2 converted to ../tmp/wind_tmp_015.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_018.grib2
+../tmp/wind_tmp_018.grib2 converted to ../tmp/wind_tmp_018.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_021.grib2
+../tmp/wind_tmp_021.grib2 converted to ../tmp/wind_tmp_021.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_024.grib2
+../tmp/wind_tmp_024.grib2 converted to ../tmp/wind_tmp_024.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_027.grib2
+../tmp/wind_tmp_027.grib2 converted to ../tmp/wind_tmp_027.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_030.grib2
+../tmp/wind_tmp_030.grib2 converted to ../tmp/wind_tmp_030.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_033.grib2
+../tmp/wind_tmp_033.grib2 converted to ../tmp/wind_tmp_033.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_036.grib2
+../tmp/wind_tmp_036.grib2 converted to ../tmp/wind_tmp_036.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_039.grib2
+../tmp/wind_tmp_039.grib2 converted to ../tmp/wind_tmp_039.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_042.grib2
+../tmp/wind_tmp_042.grib2 converted to ../tmp/wind_tmp_042.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_045.grib2
+../tmp/wind_tmp_045.grib2 converted to ../tmp/wind_tmp_045.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_048.grib2
+../tmp/wind_tmp_048.grib2 converted to ../tmp/wind_tmp_048.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_051.grib2
+../tmp/wind_tmp_051.grib2 converted to ../tmp/wind_tmp_051.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_054.grib2
+../tmp/wind_tmp_054.grib2 converted to ../tmp/wind_tmp_054.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_057.grib2
+../tmp/wind_tmp_057.grib2 converted to ../tmp/wind_tmp_057.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_060.grib2
+../tmp/wind_tmp_060.grib2 converted to ../tmp/wind_tmp_060.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_063.grib2
+../tmp/wind_tmp_063.grib2 converted to ../tmp/wind_tmp_063.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_066.grib2
+../tmp/wind_tmp_066.grib2 converted to ../tmp/wind_tmp_066.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_069.grib2
+../tmp/wind_tmp_069.grib2 converted to ../tmp/wind_tmp_069.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_072.grib2
+../tmp/wind_tmp_072.grib2 converted to ../tmp/wind_tmp_072.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_075.grib2
+../tmp/wind_tmp_075.grib2 converted to ../tmp/wind_tmp_075.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_078.grib2
+../tmp/wind_tmp_078.grib2 converted to ../tmp/wind_tmp_078.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_081.grib2
+../tmp/wind_tmp_081.grib2 converted to ../tmp/wind_tmp_081.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_084.grib2
+../tmp/wind_tmp_084.grib2 converted to ../tmp/wind_tmp_084.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_087.grib2
+../tmp/wind_tmp_087.grib2 converted to ../tmp/wind_tmp_087.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_090.grib2
+../tmp/wind_tmp_090.grib2 converted to ../tmp/wind_tmp_090.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_093.grib2
+../tmp/wind_tmp_093.grib2 converted to ../tmp/wind_tmp_093.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_096.grib2
+../tmp/wind_tmp_096.grib2 converted to ../tmp/wind_tmp_096.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_099.grib2
+../tmp/wind_tmp_099.grib2 converted to ../tmp/wind_tmp_099.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_102.grib2
+../tmp/wind_tmp_102.grib2 converted to ../tmp/wind_tmp_102.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_105.grib2
+../tmp/wind_tmp_105.grib2 converted to ../tmp/wind_tmp_105.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_108.grib2
+../tmp/wind_tmp_108.grib2 converted to ../tmp/wind_tmp_108.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_111.grib2
+../tmp/wind_tmp_111.grib2 converted to ../tmp/wind_tmp_111.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_114.grib2
+../tmp/wind_tmp_114.grib2 converted to ../tmp/wind_tmp_114.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_117.grib2
+../tmp/wind_tmp_117.grib2 converted to ../tmp/wind_tmp_117.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_120.grib2
+../tmp/wind_tmp_120.grib2 converted to ../tmp/wind_tmp_120.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_123.grib2
+../tmp/wind_tmp_123.grib2 converted to ../tmp/wind_tmp_123.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_126.grib2
+../tmp/wind_tmp_126.grib2 converted to ../tmp/wind_tmp_126.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_129.grib2
+../tmp/wind_tmp_129.grib2 converted to ../tmp/wind_tmp_129.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_132.grib2
+../tmp/wind_tmp_132.grib2 converted to ../tmp/wind_tmp_132.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_135.grib2
+../tmp/wind_tmp_135.grib2 converted to ../tmp/wind_tmp_135.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_138.grib2
+../tmp/wind_tmp_138.grib2 converted to ../tmp/wind_tmp_138.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_141.grib2
+../tmp/wind_tmp_141.grib2 converted to ../tmp/wind_tmp_141.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_144.grib2
+../tmp/wind_tmp_144.grib2 converted to ../tmp/wind_tmp_144.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_147.grib2
+../tmp/wind_tmp_147.grib2 converted to ../tmp/wind_tmp_147.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_150.grib2
+../tmp/wind_tmp_150.grib2 converted to ../tmp/wind_tmp_150.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_153.grib2
+../tmp/wind_tmp_153.grib2 converted to ../tmp/wind_tmp_153.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_156.grib2
+../tmp/wind_tmp_156.grib2 converted to ../tmp/wind_tmp_156.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_159.grib2
+../tmp/wind_tmp_159.grib2 converted to ../tmp/wind_tmp_159.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_162.grib2
+../tmp/wind_tmp_162.grib2 converted to ../tmp/wind_tmp_162.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_165.grib2
+../tmp/wind_tmp_165.grib2 converted to ../tmp/wind_tmp_165.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_168.grib2
+../tmp/wind_tmp_168.grib2 converted to ../tmp/wind_tmp_168.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_171.grib2
+../tmp/wind_tmp_171.grib2 converted to ../tmp/wind_tmp_171.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_174.grib2
+../tmp/wind_tmp_174.grib2 converted to ../tmp/wind_tmp_174.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_177.grib2
+../tmp/wind_tmp_177.grib2 converted to ../tmp/wind_tmp_177.nc
+Grib file downloaded and stored as ../tmp/wind_tmp_180.grib2
+../tmp/wind_tmp_180.grib2 converted to ../tmp/wind_tmp_180.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_000.grib2
+../tmp/wave_tmp_000.grib2 converted to ../tmp/wave_tmp_000.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_003.grib2
+../tmp/wave_tmp_003.grib2 converted to ../tmp/wave_tmp_003.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_006.grib2
+../tmp/wave_tmp_006.grib2 converted to ../tmp/wave_tmp_006.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_009.grib2
+../tmp/wave_tmp_009.grib2 converted to ../tmp/wave_tmp_009.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_012.grib2
+../tmp/wave_tmp_012.grib2 converted to ../tmp/wave_tmp_012.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_015.grib2
+NetcdfDatataset read from ../tmp/wave_tmp_018.grib2 write to ../tmp/wave_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_021.grib2 write to ../tmp/wave_tmp_021.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_024.grib2 write to ../tmp/wave_tmp_024.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_027.grib2 write to ../tmp/wave_tmp_027.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_030.grib2 write to ../tmp/wave_tmp_030.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_033.grib2 write to ../tmp/wave_tmp_033.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_036.grib2 write to ../tmp/wave_tmp_036.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_039.grib2 write to ../tmp/wave_tmp_039.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_042.grib2 write to ../tmp/wave_tmp_042.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_045.grib2 write to ../tmp/wave_tmp_045.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_048.grib2 write to ../tmp/wave_tmp_048.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_051.grib2 write to ../tmp/wave_tmp_051.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_054.grib2 write to ../tmp/wave_tmp_054.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_057.grib2 write to ../tmp/wave_tmp_057.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_060.grib2 write to ../tmp/wave_tmp_060.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_063.grib2 write to ../tmp/wave_tmp_063.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_066.grib2 write to ../tmp/wave_tmp_066.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_069.grib2 write to ../tmp/wave_tmp_069.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_072.grib2 write to ../tmp/wave_tmp_072.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_075.grib2 write to ../tmp/wave_tmp_075.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_078.grib2 write to ../tmp/wave_tmp_078.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_081.grib2 write to ../tmp/wave_tmp_081.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_084.grib2 write to ../tmp/wave_tmp_084.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_087.grib2 write to ../tmp/wave_tmp_087.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_090.grib2 write to ../tmp/wave_tmp_090.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_093.grib2 write to ../tmp/wave_tmp_093.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_096.grib2 write to ../tmp/wave_tmp_096.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_099.grib2 write to ../tmp/wave_tmp_099.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_102.grib2 write to ../tmp/wave_tmp_102.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_105.grib2 write to ../tmp/wave_tmp_105.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_108.grib2 write to ../tmp/wave_tmp_108.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_111.grib2 write to ../tmp/wave_tmp_111.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_114.grib2 write to ../tmp/wave_tmp_114.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_117.grib2 write to ../tmp/wave_tmp_117.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_120.grib2 write to ../tmp/wave_tmp_120.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_123.grib2 write to ../tmp/wave_tmp_123.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_126.grib2 write to ../tmp/wave_tmp_126.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_129.grib2 write to ../tmp/wave_tmp_129.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_132.grib2 write to ../tmp/wave_tmp_132.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_135.grib2 write to ../tmp/wave_tmp_135.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_138.grib2 write to ../tmp/wave_tmp_138.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_141.grib2 write to ../tmp/wave_tmp_141.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_144.grib2 write to ../tmp/wave_tmp_144.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_147.grib2 write to ../tmp/wave_tmp_147.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_150.grib2 write to ../tmp/wave_tmp_150.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_153.grib2 write to ../tmp/wave_tmp_153.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_156.grib2 write to ../tmp/wave_tmp_156.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_159.grib2 write to ../tmp/wave_tmp_159.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_162.grib2 write to ../tmp/wave_tmp_162.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_165.grib2 write to ../tmp/wave_tmp_165.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_168.grib2 write to ../tmp/wave_tmp_168.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_171.grib2 write to ../tmp/wave_tmp_171.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_174.grib2 write to ../tmp/wave_tmp_174.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_177.grib2 write to ../tmp/wave_tmp_177.nc finished=true
+NetcdfDatataset read from ../tmp/wave_tmp_180.grib2 write to ../tmp/wave_tmp_180.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_000.grib2 write to ../tmp/h_wind_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_003.grib2 write to ../tmp/h_wind_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_006.grib2 write to ../tmp/h_wind_tmp_006.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_009.grib2 write to ../tmp/h_wind_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_012.grib2 write to ../tmp/h_wind_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_015.grib2 write to ../tmp/h_wind_tmp_015.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_018.grib2 write to ../tmp/h_wind_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/h_wind_tmp_021.grib2 write to ../tmp/h_wind_tmp_021.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_000.grib2 write to ../tmp/h_wave_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_003.grib2 write to ../tmp/h_wave_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_006.grib2 write to ../tmp/h_wave_tmp_006.nc finished=true
+../tmp/wave_tmp_015.grib2 converted to ../tmp/wave_tmp_015.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_018.grib2
+../tmp/wave_tmp_018.grib2 converted to ../tmp/wave_tmp_018.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_021.grib2
+../tmp/wave_tmp_021.grib2 converted to ../tmp/wave_tmp_021.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_024.grib2
+../tmp/wave_tmp_024.grib2 converted to ../tmp/wave_tmp_024.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_027.grib2
+../tmp/wave_tmp_027.grib2 converted to ../tmp/wave_tmp_027.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_030.grib2
+../tmp/wave_tmp_030.grib2 converted to ../tmp/wave_tmp_030.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_033.grib2
+../tmp/wave_tmp_033.grib2 converted to ../tmp/wave_tmp_033.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_036.grib2
+../tmp/wave_tmp_036.grib2 converted to ../tmp/wave_tmp_036.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_039.grib2
+../tmp/wave_tmp_039.grib2 converted to ../tmp/wave_tmp_039.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_042.grib2
+../tmp/wave_tmp_042.grib2 converted to ../tmp/wave_tmp_042.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_045.grib2
+../tmp/wave_tmp_045.grib2 converted to ../tmp/wave_tmp_045.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_048.grib2
+../tmp/wave_tmp_048.grib2 converted to ../tmp/wave_tmp_048.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_051.grib2
+../tmp/wave_tmp_051.grib2 converted to ../tmp/wave_tmp_051.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_054.grib2
+../tmp/wave_tmp_054.grib2 converted to ../tmp/wave_tmp_054.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_057.grib2
+../tmp/wave_tmp_057.grib2 converted to ../tmp/wave_tmp_057.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_060.grib2
+../tmp/wave_tmp_060.grib2 converted to ../tmp/wave_tmp_060.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_063.grib2
+../tmp/wave_tmp_063.grib2 converted to ../tmp/wave_tmp_063.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_066.grib2
+../tmp/wave_tmp_066.grib2 converted to ../tmp/wave_tmp_066.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_069.grib2
+../tmp/wave_tmp_069.grib2 converted to ../tmp/wave_tmp_069.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_072.grib2
+../tmp/wave_tmp_072.grib2 converted to ../tmp/wave_tmp_072.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_075.grib2
+../tmp/wave_tmp_075.grib2 converted to ../tmp/wave_tmp_075.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_078.grib2
+../tmp/wave_tmp_078.grib2 converted to ../tmp/wave_tmp_078.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_081.grib2
+../tmp/wave_tmp_081.grib2 converted to ../tmp/wave_tmp_081.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_084.grib2
+../tmp/wave_tmp_084.grib2 converted to ../tmp/wave_tmp_084.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_087.grib2
+../tmp/wave_tmp_087.grib2 converted to ../tmp/wave_tmp_087.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_090.grib2
+../tmp/wave_tmp_090.grib2 converted to ../tmp/wave_tmp_090.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_093.grib2
+../tmp/wave_tmp_093.grib2 converted to ../tmp/wave_tmp_093.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_096.grib2
+../tmp/wave_tmp_096.grib2 converted to ../tmp/wave_tmp_096.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_099.grib2
+../tmp/wave_tmp_099.grib2 converted to ../tmp/wave_tmp_099.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_102.grib2
+../tmp/wave_tmp_102.grib2 converted to ../tmp/wave_tmp_102.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_105.grib2
+../tmp/wave_tmp_105.grib2 converted to ../tmp/wave_tmp_105.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_108.grib2
+../tmp/wave_tmp_108.grib2 converted to ../tmp/wave_tmp_108.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_111.grib2
+../tmp/wave_tmp_111.grib2 converted to ../tmp/wave_tmp_111.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_114.grib2
+../tmp/wave_tmp_114.grib2 converted to ../tmp/wave_tmp_114.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_117.grib2
+../tmp/wave_tmp_117.grib2 converted to ../tmp/wave_tmp_117.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_120.grib2
+../tmp/wave_tmp_120.grib2 converted to ../tmp/wave_tmp_120.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_123.grib2
+../tmp/wave_tmp_123.grib2 converted to ../tmp/wave_tmp_123.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_126.grib2
+../tmp/wave_tmp_126.grib2 converted to ../tmp/wave_tmp_126.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_129.grib2
+../tmp/wave_tmp_129.grib2 converted to ../tmp/wave_tmp_129.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_132.grib2
+../tmp/wave_tmp_132.grib2 converted to ../tmp/wave_tmp_132.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_135.grib2
+../tmp/wave_tmp_135.grib2 converted to ../tmp/wave_tmp_135.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_138.grib2
+../tmp/wave_tmp_138.grib2 converted to ../tmp/wave_tmp_138.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_141.grib2
+../tmp/wave_tmp_141.grib2 converted to ../tmp/wave_tmp_141.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_144.grib2
+../tmp/wave_tmp_144.grib2 converted to ../tmp/wave_tmp_144.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_147.grib2
+../tmp/wave_tmp_147.grib2 converted to ../tmp/wave_tmp_147.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_150.grib2
+../tmp/wave_tmp_150.grib2 converted to ../tmp/wave_tmp_150.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_153.grib2
+../tmp/wave_tmp_153.grib2 converted to ../tmp/wave_tmp_153.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_156.grib2
+../tmp/wave_tmp_156.grib2 converted to ../tmp/wave_tmp_156.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_159.grib2
+../tmp/wave_tmp_159.grib2 converted to ../tmp/wave_tmp_159.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_162.grib2
+../tmp/wave_tmp_162.grib2 converted to ../tmp/wave_tmp_162.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_165.grib2
+../tmp/wave_tmp_165.grib2 converted to ../tmp/wave_tmp_165.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_168.grib2
+../tmp/wave_tmp_168.grib2 converted to ../tmp/wave_tmp_168.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_171.grib2
+../tmp/wave_tmp_171.grib2 converted to ../tmp/wave_tmp_171.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_174.grib2
+../tmp/wave_tmp_174.grib2 converted to ../tmp/wave_tmp_174.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_177.grib2
+../tmp/wave_tmp_177.grib2 converted to ../tmp/wave_tmp_177.nc
+Grib file downloaded and stored as ../tmp/wave_tmp_180.grib2
+../tmp/wave_tmp_180.grib2 converted to ../tmp/wave_tmp_180.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_000.grib2
+../tmp/h_wind_tmp_000.grib2 converted to ../tmp/h_wind_tmp_000.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_003.grib2
+../tmp/h_wind_tmp_003.grib2 converted to ../tmp/h_wind_tmp_003.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_006.grib2
+../tmp/h_wind_tmp_006.grib2 converted to ../tmp/h_wind_tmp_006.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_009.grib2
+../tmp/h_wind_tmp_009.grib2 converted to ../tmp/h_wind_tmp_009.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_012.grib2
+../tmp/h_wind_tmp_012.grib2 converted to ../tmp/h_wind_tmp_012.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_015.grib2
+../tmp/h_wind_tmp_015.grib2 converted to ../tmp/h_wind_tmp_015.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_018.grib2
+../tmp/h_wind_tmp_018.grib2 converted to ../tmp/h_wind_tmp_018.nc
+Grib file downloaded and stored as ../tmp/h_wind_tmp_021.grib2
+../tmp/h_wind_tmp_021.grib2 converted to ../tmp/h_wind_tmp_021.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_000.grib2
+../tmp/h_wave_tmp_000.grib2 converted to ../tmp/h_wave_tmp_000.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_003.grib2
+../tmp/h_wave_tmp_003.grib2 converted to ../tmp/h_wave_tmp_003.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_006.grib2
+NetcdfDatataset read from ../tmp/h_wave_tmp_009.grib2 write to ../tmp/h_wave_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_012.grib2 write to ../tmp/h_wave_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_015.grib2 write to ../tmp/h_wave_tmp_015.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_018.grib2 write to ../tmp/h_wave_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/h_wave_tmp_021.grib2 write to ../tmp/h_wave_tmp_021.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_000.grib2 write to ../tmp/hh_wind_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_003.grib2 write to ../tmp/hh_wind_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_006.grib2 write to ../tmp/hh_wind_tmp_006.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_009.grib2 write to ../tmp/hh_wind_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_012.grib2 write to ../tmp/hh_wind_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_015.grib2 write to ../tmp/hh_wind_tmp_015.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_018.grib2 write to ../tmp/hh_wind_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wind_tmp_021.grib2 write to ../tmp/hh_wind_tmp_021.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_000.grib2 write to ../tmp/hh_wave_tmp_000.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_003.grib2 write to ../tmp/hh_wave_tmp_003.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_006.grib2 write to ../tmp/hh_wave_tmp_006.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_009.grib2 write to ../tmp/hh_wave_tmp_009.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_012.grib2 write to ../tmp/hh_wave_tmp_012.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_015.grib2 write to ../tmp/hh_wave_tmp_015.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_018.grib2 write to ../tmp/hh_wave_tmp_018.nc finished=true
+NetcdfDatataset read from ../tmp/hh_wave_tmp_021.grib2 write to ../tmp/hh_wave_tmp_021.nc finished=true
+../tmp/h_wave_tmp_006.grib2 converted to ../tmp/h_wave_tmp_006.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_009.grib2
+../tmp/h_wave_tmp_009.grib2 converted to ../tmp/h_wave_tmp_009.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_012.grib2
+../tmp/h_wave_tmp_012.grib2 converted to ../tmp/h_wave_tmp_012.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_015.grib2
+../tmp/h_wave_tmp_015.grib2 converted to ../tmp/h_wave_tmp_015.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_018.grib2
+../tmp/h_wave_tmp_018.grib2 converted to ../tmp/h_wave_tmp_018.nc
+Grib file downloaded and stored as ../tmp/h_wave_tmp_021.grib2
+../tmp/h_wave_tmp_021.grib2 converted to ../tmp/h_wave_tmp_021.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_000.grib2
+../tmp/hh_wind_tmp_000.grib2 converted to ../tmp/hh_wind_tmp_000.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_003.grib2
+../tmp/hh_wind_tmp_003.grib2 converted to ../tmp/hh_wind_tmp_003.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_006.grib2
+../tmp/hh_wind_tmp_006.grib2 converted to ../tmp/hh_wind_tmp_006.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_009.grib2
+../tmp/hh_wind_tmp_009.grib2 converted to ../tmp/hh_wind_tmp_009.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_012.grib2
+../tmp/hh_wind_tmp_012.grib2 converted to ../tmp/hh_wind_tmp_012.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_015.grib2
+../tmp/hh_wind_tmp_015.grib2 converted to ../tmp/hh_wind_tmp_015.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_018.grib2
+../tmp/hh_wind_tmp_018.grib2 converted to ../tmp/hh_wind_tmp_018.nc
+Grib file downloaded and stored as ../tmp/hh_wind_tmp_021.grib2
+../tmp/hh_wind_tmp_021.grib2 converted to ../tmp/hh_wind_tmp_021.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_000.grib2
+../tmp/hh_wave_tmp_000.grib2 converted to ../tmp/hh_wave_tmp_000.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_003.grib2
+../tmp/hh_wave_tmp_003.grib2 converted to ../tmp/hh_wave_tmp_003.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_006.grib2
+../tmp/hh_wave_tmp_006.grib2 converted to ../tmp/hh_wave_tmp_006.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_009.grib2
+../tmp/hh_wave_tmp_009.grib2 converted to ../tmp/hh_wave_tmp_009.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_012.grib2
+../tmp/hh_wave_tmp_012.grib2 converted to ../tmp/hh_wave_tmp_012.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_015.grib2
+../tmp/hh_wave_tmp_015.grib2 converted to ../tmp/hh_wave_tmp_015.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_018.grib2
+../tmp/hh_wave_tmp_018.grib2 converted to ../tmp/hh_wave_tmp_018.nc
+Grib file downloaded and stored as ../tmp/hh_wave_tmp_021.grib2
+../tmp/hh_wave_tmp_021.grib2 converted to ../tmp/hh_wave_tmp_021.nc
+Downloading Sea Level Anomaly data from http://nrt.cmems-du.eu
+
+ Nanumea 176.15 -5.72
+Fetching catalog:   0%|          | 0/3 [00:00<?, ?it/s]Fetching catalog:  33%|███▎      | 1/3 [01:53<03:46, 113.36s/it]Fetching catalog: 100%|██████████| 3/3 [01:53<00:00, 37.79s/it] 
+INFO - 2024-04-29T05:30:58Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:30:58Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:30:58Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:31:02Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+INFO - 2024-04-29T05:31:06Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:31:06Z - Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.69s/it]100%|██████████| 6/6 [00:01<00:00,  3.53it/s]
+INFO - 2024-04-29T05:31:08Z - Successfully downloaded to ../tmp/sla_Nanumea.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Nanumea.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+sea level anomaly stored as ../tmp/sla_hourly_Nanumea.nc
+
+ Nanumanga 176.31 -6.29
+INFO - 2024-04-29T05:32:10Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:32:10Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:32:10Z - You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:33:14Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+INFO - 2024-04-29T05:33:19Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:33:19Z - Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.75s/it]100%|██████████| 6/6 [00:01<00:00,  3.42it/s]
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Nanumanga.nc
+INFO - 2024-04-29T05:33:21Z - Successfully downloaded to ../tmp/sla_Nanumanga.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Nanumanga.nc
+
+ Niutao 177.33 -6.12
+INFO - 2024-04-29T05:34:22Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:34:22Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:34:22Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:34:27Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:34:31Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:34:31Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:09,  1.90s/it]100%|██████████| 6/6 [00:01<00:00,  3.15it/s]
+INFO - 2024-04-29T05:34:34Z - Successfully downloaded to ../tmp/sla_Niutao.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Niutao.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Niutao.nc
+
+ Nui 177.14 -7.25
+INFO - 2024-04-29T05:35:36Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:35:36Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:35:36Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:35:40Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:35:44Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:35:44Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.73s/it]100%|██████████| 6/6 [00:01<00:00,  3.45it/s]
+INFO - 2024-04-29T05:35:46Z - Successfully downloaded to ../tmp/sla_Nui.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Nui.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Nui.nc
+
+ Vaitupu 178.69 -7.51
+INFO - 2024-04-29T05:36:48Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:36:48Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:36:48Z - You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:36:53Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:36:57Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:36:57Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.77s/it]100%|██████████| 6/6 [00:01<00:00,  3.39it/s]
+INFO - 2024-04-29T05:36:59Z - Successfully downloaded to ../tmp/sla_Vaitupu.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Vaitupu.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Vaitupu.nc
+
+ Nukufetau 178.3 -8.03
+INFO - 2024-04-29T05:38:01Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:38:01Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:38:01Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:38:06Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:38:10Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:38:10Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.74s/it]100%|██████████| 6/6 [00:01<00:00,  3.43it/s]
+INFO - 2024-04-29T05:38:12Z - Successfully downloaded to ../tmp/sla_Nukufetau.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Nukufetau.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Nukufetau.nc
+
+ Fongafale 179.24 -8.51
+INFO - 2024-04-29T05:39:14Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:39:14Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:39:14Z - You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:39:18Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:39:23Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:39:23Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.72s/it]100%|██████████| 6/6 [00:01<00:00,  3.48it/s]
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Fongafale.nc
+INFO - 2024-04-29T05:39:25Z - Successfully downloaded to ../tmp/sla_Fongafale.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Fongafale.nc
+
+ Nukulaelae 179.8 -9.37
+INFO - 2024-04-29T05:40:27Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:40:27Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:40:27Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:40:31Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:40:35Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:40:35Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.70s/it]100%|██████████| 6/6 [00:01<00:00,  3.52it/s]
+INFO - 2024-04-29T05:40:37Z - Successfully downloaded to ../tmp/sla_Nukulaelae.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Nukulaelae.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Nukulaelae.nc
+
+ Niulakita 179.47 -10.8
+INFO - 2024-04-29T05:41:40Z - Dataset version was not specified, the latest one was selected: "202211"
+INFO - 2024-04-29T05:41:40Z - Dataset part was not specified, the first one was selected: "default"
+INFO - 2024-04-29T05:41:40Z - You forced selection of service: arco-time-series
+INFO:copernicus_marine_root_logger:Dataset version was not specified, the latest one was selected: "202211"
+INFO:copernicus_marine_root_logger:Dataset part was not specified, the first one was selected: "default"
+INFO:copernicus_marine_root_logger:You forced selection of service: arco-time-series
+INFO - 2024-04-29T05:41:44Z - Downloading using service arco-time-series...
+INFO:copernicus_marine_root_logger:Downloading using service arco-time-series...
+INFO - 2024-04-29T05:41:48Z - Estimated size of the dataset file is 0.001 MB.
+INFO - 2024-04-29T05:41:48Z - Writing to local storage. Please wait...
+INFO:copernicus_marine_root_logger:Estimated size of the dataset file is 0.001 MB.
+INFO:copernicus_marine_root_logger:Writing to local storage. Please wait...
+  0%|          | 0/6 [00:00<?, ?it/s] 17%|█▋        | 1/6 [00:01<00:08,  1.77s/it]100%|██████████| 6/6 [00:01<00:00,  3.39it/s]
+INFO - 2024-04-29T05:41:50Z - Successfully downloaded to ../tmp/sla_Niulakita.nc
+INFO:copernicus_marine_root_logger:Successfully downloaded to ../tmp/sla_Niulakita.nc
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_min not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/step2_download_CMEMS.py:73: UserWarning: WARNING: valid_max not used since it
+cannot be safely cast to variable data type
+  time_or=nc.num2date(time_var[:],time_var.units, time_var.calendar)
+/Tailored/codes/create_spec_from_partitions.py:16: RuntimeWarning: divide by zero encountered in scalar divide
+  return( 1/(sigma*np.sqrt(2*np.pi))*np.exp(-1*(x-mu)**2/ (2*sigma**2) ))
+/Tailored/codes/create_spec_from_partitions.py:16: RuntimeWarning: divide by zero encountered in divide
+  return( 1/(sigma*np.sqrt(2*np.pi))*np.exp(-1*(x-mu)**2/ (2*sigma**2) ))
+The system cannot find the file specified, creating netcdf file
+sea level anomaly stored as ../tmp/sla_hourly_Niulakita.nc
+Generating tide from TPOX8 Global Tidal Model https://www.tpxo.net/global
+
+ Nanumea_Channel 176.105251 -5.674249
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Nanumea_Channel.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Nanumea_Channel.nc
+
+ Niutao_Channel 177.32991 -6.109581
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Niutao_Channel.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Niutao_Channel.nc
+
+ Nui_Channel 177.138506 -7.246616
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Nui_Channel.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Nui_Channel.nc
+
+ Funafuti-Niutao_Ocean 178.046738 -7.150443
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Funafuti-Niutao_Ocean.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Funafuti-Niutao_Ocean.nc
+
+ Funafuti_lagoon 179.16861 -8.51678
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Funafuti_lagoon.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Funafuti_lagoon.nc
+
+ Niutao_Site 177.341076 -6.101206
+The system cannot find the file specified, creating netcdf file
+1 hour tides stored as ../tmp/tide_hourly_Niutao_Site.nc
+The system cannot find the file specified, creating netcdf file
+1 minute tides stored as ../tmp/tide_minute_Niutao_Site.nc
+Generating spectral wave forcing
+Create Dir
+../tmp/wave_tmp_003.nc
+../tmp/wave_tmp_006.nc
+../tmp/wave_tmp_009.nc
+../tmp/wave_tmp_012.nc
+../tmp/wave_tmp_015.nc
+../tmp/wave_tmp_018.nc
+../tmp/wave_tmp_021.nc
+../tmp/wave_tmp_024.nc
+../tmp/wave_tmp_027.nc
+../tmp/wave_tmp_030.nc
+../tmp/wave_tmp_033.nc
+../tmp/wave_tmp_036.nc
+../tmp/wave_tmp_039.nc
+../tmp/wave_tmp_042.nc
+../tmp/wave_tmp_045.nc
+../tmp/wave_tmp_048.nc
+../tmp/wave_tmp_051.nc
+../tmp/wave_tmp_054.nc
+../tmp/wave_tmp_057.nc
+../tmp/wave_tmp_060.nc
+../tmp/wave_tmp_063.nc
+../tmp/wave_tmp_066.nc
+../tmp/wave_tmp_069.nc
+../tmp/wave_tmp_072.nc
+../tmp/wave_tmp_075.nc
+../tmp/wave_tmp_078.nc
+../tmp/wave_tmp_081.nc
+../tmp/wave_tmp_084.nc
+../tmp/wave_tmp_087.nc
+../tmp/wave_tmp_090.nc
+../tmp/wave_tmp_093.nc
+../tmp/wave_tmp_096.nc
+../tmp/wave_tmp_099.nc
+../tmp/wave_tmp_102.nc
+../tmp/wave_tmp_105.nc
+../tmp/wave_tmp_108.nc
+../tmp/wave_tmp_111.nc
+../tmp/wave_tmp_114.nc
+../tmp/wave_tmp_117.nc
+../tmp/wave_tmp_120.nc
+../tmp/wave_tmp_123.nc
+../tmp/wave_tmp_126.nc
+../tmp/wave_tmp_129.nc
+../tmp/wave_tmp_132.nc
+../tmp/wave_tmp_135.nc
+../tmp/wave_tmp_138.nc
+../tmp/wave_tmp_141.nc
+../tmp/wave_tmp_144.nc
+../tmp/wave_tmp_147.nc
+../tmp/wave_tmp_150.nc
+../tmp/wave_tmp_153.nc
+../tmp/wave_tmp_156.nc
+../tmp/wave_tmp_159.nc
+../tmp/wave_tmp_162.nc
+../tmp/wave_tmp_165.nc
+../tmp/wave_tmp_168.nc
+../tmp/wave_tmp_171.nc
+../tmp/wave_tmp_174.nc
+../tmp/wave_tmp_177.nc
+../tmp/wave_tmp_180.nc
+../tmp/h_wave_tmp_003.nc
+../tmp/h_wave_tmp_006.nc
+../tmp/h_wave_tmp_009.nc
+../tmp/h_wave_tmp_012.nc
+../tmp/h_wave_tmp_015.nc
+../tmp/h_wave_tmp_018.nc
+../tmp/h_wave_tmp_021.nc
+../tmp/hh_wave_tmp_003.nc
+../tmp/hh_wave_tmp_006.nc
+../tmp/hh_wave_tmp_009.nc
+../tmp/hh_wave_tmp_012.nc
+../tmp/hh_wave_tmp_015.nc
+../tmp/hh_wave_tmp_018.nc
+../tmp/hh_wave_tmp_021.nc
+Writing spectral file ../runs/2024042818/Pto_1.sp2
+Writing spectral file ../runs/2024042818/Pto_3.sp2
+Writing spectral file ../runs/2024042818/Pto_13.sp2
+Writing spectral file ../runs/2024042818/Pto_34.sp2
+Writing spectral file ../runs/2024042818/Pto_92.sp2
+Writing spectral file ../runs/2024042818/Pto_201.sp2
+Writing spectral file ../runs/2024042818/Pto_367.sp2
+Writing spectral file ../runs/2024042818/Pto_600.sp2
+Writing spectral file ../runs/2024042818/Pto_892.sp2
+Writing spectral file ../runs/2024042818/Pto_893.sp2
+Writing spectral file ../runs/2024042818/Pto_1232.sp2
+Writing spectral file ../runs/2024042818/Pto_1256.sp2
+Writing spectral file ../runs/2024042818/Pto_1629.sp2
+Writing spectral file ../runs/2024042818/Pto_2038.sp2
+Writing spectral file ../runs/2024042818/Pto_2476.sp2
+Writing spectral file ../runs/2024042818/Pto_2480.sp2
+Writing spectral file ../runs/2024042818/Pto_2481.sp2
+Writing spectral file ../runs/2024042818/Pto_2955.sp2
+Writing spectral file ../runs/2024042818/Pto_2991.sp2
+Writing spectral file ../runs/2024042818/Pto_3496.sp2
+Writing spectral file ../runs/2024042818/Pto_3498.sp2
+Writing spectral file ../runs/2024042818/Pto_4013.sp2
+Writing spectral file ../runs/2024042818/Pto_4014.sp2
+Writing spectral file ../runs/2024042818/Pto_4016.sp2
+Writing spectral file ../runs/2024042818/Pto_4018.sp2
+Writing spectral file ../runs/2024042818/Pto_4017.sp2
+Writing spectral file ../runs/2024042818/Pto_4540.sp2
+Writing spectral file ../runs/2024042818/Pto_4541.sp2
+Writing spectral file ../runs/2024042818/Pto_4560.sp2
+Writing spectral file ../runs/2024042818/Pto_4563.sp2
+Writing spectral file ../runs/2024042818/Pto_4562.sp2
+Writing spectral file ../runs/2024042818/Pto_4561.sp2
+Writing spectral file ../runs/2024042818/Pto_4032.sp2
+Writing spectral file ../runs/2024042818/Pto_4033.sp2
+Writing spectral file ../runs/2024042818/Pto_4031.sp2
+Writing spectral file ../runs/2024042818/Pto_4029.sp2
+Writing spectral file ../runs/2024042818/Pto_4028.sp2
+Writing spectral file ../runs/2024042818/Pto_3508.sp2
+Writing spectral file ../runs/2024042818/Pto_2999.sp2
+Writing spectral file ../runs/2024042818/Pto_2998.sp2
+Writing spectral file ../runs/2024042818/Pto_2516.sp2
+Writing spectral file ../runs/2024042818/Pto_2515.sp2
+Writing spectral file ../runs/2024042818/Pto_2511.sp2
+Writing spectral file ../runs/2024042818/Pto_2065.sp2
+Writing spectral file ../runs/2024042818/Pto_2064.sp2
+Writing spectral file ../runs/2024042818/Pto_2513.sp2
+Writing spectral file ../runs/2024042818/Pto_2992.sp2
+Writing spectral file ../runs/2024042818/Pto_3500.sp2
+Writing spectral file ../runs/2024042818/Pto_3501.sp2
+Writing spectral file ../runs/2024042818/Pto_4022.sp2
+Writing spectral file ../runs/2024042818/Pto_4554.sp2
+Writing spectral file ../runs/2024042818/Pto_4571.sp2
+Writing spectral file ../runs/2024042818/Pto_5105.sp2
+Writing spectral file ../runs/2024042818/Pto_5107.sp2
+Writing spectral file ../runs/2024042818/Pto_5620.sp2
+Writing spectral file ../runs/2024042818/Pto_6080.sp2
+Writing spectral file ../runs/2024042818/Pto_6512.sp2
+Writing spectral file ../runs/2024042818/Pto_6519.sp2
+Writing spectral file ../runs/2024042818/Pto_6520.sp2
+Writing spectral file ../runs/2024042818/Pto_6521.sp2
+Writing spectral file ../runs/2024042818/Pto_6522.sp2
+Writing spectral file ../runs/2024042818/Pto_6523.sp2
+Writing spectral file ../runs/2024042818/Pto_6946.sp2
+Writing spectral file ../runs/2024042818/Pto_6947.sp2
+Writing spectral file ../runs/2024042818/Pto_7355.sp2
+Writing spectral file ../runs/2024042818/Pto_7354.sp2
+Writing spectral file ../runs/2024042818/Pto_7353.sp2
+Writing spectral file ../runs/2024042818/Pto_6941.sp2
+Writing spectral file ../runs/2024042818/Pto_6942.sp2
+Writing spectral file ../runs/2024042818/Pto_6943.sp2
+Writing spectral file ../runs/2024042818/Pto_6944.sp2
+Writing spectral file ../runs/2024042818/Pto_6945.sp2
+Writing spectral file ../runs/2024042818/Pto_6518.sp2
+Writing spectral file ../runs/2024042818/Pto_6087.sp2
+Writing spectral file ../runs/2024042818/Pto_5623.sp2
+Writing spectral file ../runs/2024042818/Pto_5109.sp2
+Writing spectral file ../runs/2024042818/Pto_5108.sp2
+Writing spectral file ../runs/2024042818/Pto_4572.sp2
+Writing spectral file ../runs/2024042818/Pto_4035.sp2
+Writing spectral file ../runs/2024042818/Pto_3509.sp2
+Writing spectral file ../runs/2024042818/Pto_3000.sp2
+Writing spectral file ../runs/2024042818/Pto_2518.sp2
+Writing spectral file ../runs/2024042818/Pto_2067.sp2
+/opt/miniconda/lib/python3.11/site-packages/adcircpy/mesh/parsers/grd.py:22: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  output['nodes'] = pandas.read_csv(
+/opt/miniconda/lib/python3.11/site-packages/adcircpy/mesh/parsers/grd.py:37: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  output['elements'] = pandas.read_csv(
+sh: 1: swanrun: Permission denied
+sh: 1: taskkill: not found
+NetcdfDatataset read from ../Regional_tmp/out_000.grib2 write to ../Regional_tmp/out_000.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_003.grib2 write to ../Regional_tmp/out_003.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_006.grib2 write to ../Regional_tmp/out_006.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_009.grib2 write to ../Regional_tmp/out_009.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_012.grib2 write to ../Regional_tmp/out_012.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_015.grib2 write to ../Regional_tmp/out_015.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_018.grib2 write to ../Regional_tmp/out_018.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_021.grib2 write to ../Regional_tmp/out_021.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_024.grib2 write to ../Regional_tmp/out_024.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_027.grib2 write to ../Regional_tmp/out_027.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_030.grib2 write to ../Regional_tmp/out_030.nc finished=true
+Writing spectral file ../runs/2024042818/Pto_1656.sp2
+Writing spectral file ../runs/2024042818/Pto_2066.sp2
+Writing spectral file ../runs/2024042818/Pto_2068.sp2
+Writing spectral file ../runs/2024042818/Pto_2519.sp2
+Writing spectral file ../runs/2024042818/Pto_2522.sp2
+Writing spectral file ../runs/2024042818/Pto_2580.sp2
+Writing spectral file ../runs/2024042818/Pto_2581.sp2
+Writing spectral file ../runs/2024042818/Pto_2583.sp2
+Writing spectral file ../runs/2024042818/Pto_2584.sp2
+Writing spectral file ../runs/2024042818/Pto_2582.sp2
+Writing spectral file ../runs/2024042818/Pto_2926.sp2
+Writing spectral file ../runs/2024042818/Pto_2927.sp2
+Writing spectral file ../runs/2024042818/Pto_3435.sp2
+Writing spectral file ../runs/2024042818/Pto_3957.sp2
+Writing spectral file ../runs/2024042818/Pto_4485.sp2
+Writing spectral file ../runs/2024042818/Pto_4486.sp2
+Writing spectral file ../runs/2024042818/Pto_4487.sp2
+Writing spectral file ../runs/2024042818/Pto_4998.sp2
+Writing spectral file ../runs/2024042818/Pto_4997.sp2
+Writing spectral file ../runs/2024042818/Pto_4996.sp2
+Writing spectral file ../runs/2024042818/Pto_5004.sp2
+Writing spectral file ../runs/2024042818/Pto_5005.sp2
+Writing spectral file ../runs/2024042818/Pto_5009.sp2
+Writing spectral file ../runs/2024042818/Pto_5011.sp2
+Writing spectral file ../runs/2024042818/Pto_5010.sp2
+Writing spectral file ../runs/2024042818/Pto_4493.sp2
+Writing spectral file ../runs/2024042818/Pto_4492.sp2
+Writing spectral file ../runs/2024042818/Pto_3960.sp2
+Writing spectral file ../runs/2024042818/Pto_3436.sp2
+Writing spectral file ../runs/2024042818/Pto_3948.sp2
+Writing spectral file ../runs/2024042818/Pto_3949.sp2
+Writing spectral file ../runs/2024042818/Pto_3428.sp2
+Writing spectral file ../runs/2024042818/Pto_3427.sp2
+Writing spectral file ../runs/2024042818/Pto_2924.sp2
+Writing spectral file ../runs/2024042818/Pto_2451.sp2
+Writing spectral file ../runs/2024042818/Pto_2011.sp2
+Writing spectral file ../runs/2024042818/Pto_1595.sp2
+Writing spectral file ../runs/2024042818/Pto_1217.sp2
+Writing spectral file ../runs/2024042818/Pto_1216.sp2
+Writing spectral file ../runs/2024042818/Pto_874.sp2
+Writing spectral file ../runs/2024042818/Pto_587.sp2
+Writing spectral file ../runs/2024042818/Pto_365.sp2
+Writing spectral file ../runs/2024042818/Pto_364.sp2
+Writing spectral file ../runs/2024042818/Pto_200.sp2
+Writing spectral file ../runs/2024042818/Pto_91.sp2
+Writing spectral file ../runs/2024042818/Pto_199.sp2
+Writing spectral file ../runs/2024042818/Pto_198.sp2
+Writing spectral file ../runs/2024042818/Pto_361.sp2
+Writing spectral file ../runs/2024042818/Pto_360.sp2
+Writing spectral file ../runs/2024042818/Pto_581.sp2
+Writing spectral file ../runs/2024042818/Pto_867.sp2
+Writing spectral file ../runs/2024042818/Pto_1206.sp2
+Writing spectral file ../runs/2024042818/Pto_1307.sp2
+Writing spectral file ../runs/2024042818/Pto_1308.sp2
+Writing spectral file ../runs/2024042818/Pto_1310.sp2
+Writing spectral file ../runs/2024042818/Pto_1309.sp2
+Writing spectral file ../runs/2024042818/Pto_1313.sp2
+Writing spectral file ../runs/2024042818/Pto_1312.sp2
+Writing spectral file ../runs/2024042818/Pto_1311.sp2
+Writing spectral file ../runs/2024042818/Pto_1689.sp2
+Writing spectral file ../runs/2024042818/Pto_1690.sp2
+Writing spectral file ../runs/2024042818/Pto_1691.sp2
+Writing spectral file ../runs/2024042818/Pto_1688.sp2
+Writing spectral file ../runs/2024042818/Pto_1687.sp2
+Writing spectral file ../runs/2024042818/Pto_1304.sp2
+Writing spectral file ../runs/2024042818/Pto_1303.sp2
+Writing spectral file ../runs/2024042818/Pto_954.sp2
+Writing spectral file ../runs/2024042818/Pto_665.sp2
+Writing spectral file ../runs/2024042818/Pto_642.sp2
+Writing spectral file ../runs/2024042818/Pto_641.sp2
+Writing spectral file ../runs/2024042818/Pto_640.sp2
+Writing spectral file ../runs/2024042818/Pto_639.sp2
+Writing spectral file ../runs/2024042818/Pto_636.sp2
+Writing spectral file ../runs/2024042818/Pto_400.sp2
+Writing spectral file ../runs/2024042818/Pto_399.sp2
+Writing spectral file ../runs/2024042818/Pto_218.sp2
+Writing spectral file ../runs/2024042818/Pto_213.sp2
+Writing spectral file ../runs/2024042818/Pto_96.sp2
+Writing spectral file ../runs/2024042818/Pto_36.sp2
+Writing spectral file ../runs/2024042818/Pto_16.sp2
+Writing spectral file ../runs/2024042818/Pto_15.sp2
+Writing spectral file ../runs/2024042818/Pto_4.sp2
+Writing spectral file ../runs/2024042818/Pto_2.sp2
+Writing spectral file ../runs/2024042818/Pto_1.sp2
+Wave forcing generated in: ../runs/2024042818
+Gnerating wind forcing in: ../runs/2024042818
+[Errno 17] File exists: '../runs/2024042818'
+3
+../tmp/wind_tmp_003.nc
+6
+../tmp/wind_tmp_006.nc
+9
+../tmp/wind_tmp_009.nc
+12
+../tmp/wind_tmp_012.nc
+15
+../tmp/wind_tmp_015.nc
+18
+../tmp/wind_tmp_018.nc
+21
+../tmp/wind_tmp_021.nc
+24
+../tmp/wind_tmp_024.nc
+27
+../tmp/wind_tmp_027.nc
+30
+../tmp/wind_tmp_030.nc
+33
+../tmp/wind_tmp_033.nc
+36
+../tmp/wind_tmp_036.nc
+39
+../tmp/wind_tmp_039.nc
+42
+../tmp/wind_tmp_042.nc
+45
+../tmp/wind_tmp_045.nc
+48
+../tmp/wind_tmp_048.nc
+51
+../tmp/wind_tmp_051.nc
+54
+../tmp/wind_tmp_054.nc
+57
+../tmp/wind_tmp_057.nc
+60
+../tmp/wind_tmp_060.nc
+63
+../tmp/wind_tmp_063.nc
+66
+../tmp/wind_tmp_066.nc
+69
+../tmp/wind_tmp_069.nc
+72
+../tmp/wind_tmp_072.nc
+75
+../tmp/wind_tmp_075.nc
+78
+../tmp/wind_tmp_078.nc
+81
+../tmp/wind_tmp_081.nc
+84
+../tmp/wind_tmp_084.nc
+87
+../tmp/wind_tmp_087.nc
+90
+../tmp/wind_tmp_090.nc
+93
+../tmp/wind_tmp_093.nc
+96
+../tmp/wind_tmp_096.nc
+99
+../tmp/wind_tmp_099.nc
+102
+../tmp/wind_tmp_102.nc
+105
+../tmp/wind_tmp_105.nc
+108
+../tmp/wind_tmp_108.nc
+111
+../tmp/wind_tmp_111.nc
+114
+../tmp/wind_tmp_114.nc
+117
+../tmp/wind_tmp_117.nc
+120
+../tmp/wind_tmp_120.nc
+123
+../tmp/wind_tmp_123.nc
+126
+../tmp/wind_tmp_126.nc
+129
+../tmp/wind_tmp_129.nc
+132
+../tmp/wind_tmp_132.nc
+135
+../tmp/wind_tmp_135.nc
+138
+../tmp/wind_tmp_138.nc
+141
+../tmp/wind_tmp_141.nc
+144
+../tmp/wind_tmp_144.nc
+147
+../tmp/wind_tmp_147.nc
+150
+../tmp/wind_tmp_150.nc
+153
+../tmp/wind_tmp_153.nc
+156
+../tmp/wind_tmp_156.nc
+159
+../tmp/wind_tmp_159.nc
+162
+../tmp/wind_tmp_162.nc
+165
+../tmp/wind_tmp_165.nc
+168
+../tmp/wind_tmp_168.nc
+171
+../tmp/wind_tmp_171.nc
+174
+../tmp/wind_tmp_174.nc
+177
+../tmp/wind_tmp_177.nc
+180
+../tmp/wind_tmp_180.nc
+3
+../tmp/h_wind_tmp_003.nc
+6
+../tmp/h_wind_tmp_006.nc
+9
+../tmp/h_wind_tmp_009.nc
+12
+../tmp/h_wind_tmp_012.nc
+15
+../tmp/h_wind_tmp_015.nc
+18
+../tmp/h_wind_tmp_018.nc
+21
+../tmp/h_wind_tmp_021.nc
+3
+../tmp/hh_wind_tmp_003.nc
+6
+../tmp/hh_wind_tmp_006.nc
+9
+../tmp/hh_wind_tmp_009.nc
+12
+../tmp/hh_wind_tmp_012.nc
+15
+../tmp/hh_wind_tmp_015.nc
+18
+../tmp/hh_wind_tmp_018.nc
+21
+../tmp/hh_wind_tmp_021.nc
+../runs/2024042818/winds.dat created
+../runs/2024042818/
+finished running
+Grib file downloaded and stored as ../Regional_tmp/out_000.grib2
+../Regional_tmp/out_000.grib2 converted to ../Regional_tmp/out_000.nc
+Grib file downloaded and stored as ../Regional_tmp/out_003.grib2
+../Regional_tmp/out_003.grib2 converted to ../Regional_tmp/out_003.nc
+Grib file downloaded and stored as ../Regional_tmp/out_006.grib2
+../Regional_tmp/out_006.grib2 converted to ../Regional_tmp/out_006.nc
+Grib file downloaded and stored as ../Regional_tmp/out_009.grib2
+../Regional_tmp/out_009.grib2 converted to ../Regional_tmp/out_009.nc
+Grib file downloaded and stored as ../Regional_tmp/out_012.grib2
+../Regional_tmp/out_012.grib2 converted to ../Regional_tmp/out_012.nc
+Grib file downloaded and stored as ../Regional_tmp/out_015.grib2
+../Regional_tmp/out_015.grib2 converted to ../Regional_tmp/out_015.nc
+Grib file downloaded and stored as ../Regional_tmp/out_018.grib2
+../Regional_tmp/out_018.grib2 converted to ../Regional_tmp/out_018.nc
+Grib file downloaded and stored as ../Regional_tmp/out_021.grib2
+../Regional_tmp/out_021.grib2 converted to ../Regional_tmp/out_021.nc
+Grib file downloaded and stored as ../Regional_tmp/out_024.grib2
+../Regional_tmp/out_024.grib2 converted to ../Regional_tmp/out_024.nc
+Grib file downloaded and stored as ../Regional_tmp/out_027.grib2
+../Regional_tmp/out_027.grib2 converted to ../Regional_tmp/out_027.nc
+Grib file downloaded and stored as ../Regional_tmp/out_030.grib2
+../Regional_tmp/out_030.grib2 converted to ../Regional_tmp/out_030.nc
+NetcdfDatataset read from ../Regional_tmp/out_033.grib2 write to ../Regional_tmp/out_033.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_036.grib2 write to ../Regional_tmp/out_036.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_039.grib2 write to ../Regional_tmp/out_039.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_042.grib2 write to ../Regional_tmp/out_042.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_045.grib2 write to ../Regional_tmp/out_045.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_048.grib2 write to ../Regional_tmp/out_048.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_051.grib2 write to ../Regional_tmp/out_051.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_054.grib2 write to ../Regional_tmp/out_054.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_057.grib2 write to ../Regional_tmp/out_057.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_060.grib2 write to ../Regional_tmp/out_060.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_063.grib2 write to ../Regional_tmp/out_063.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_066.grib2 write to ../Regional_tmp/out_066.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_069.grib2 write to ../Regional_tmp/out_069.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_072.grib2 write to ../Regional_tmp/out_072.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_075.grib2 write to ../Regional_tmp/out_075.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_078.grib2 write to ../Regional_tmp/out_078.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_081.grib2 write to ../Regional_tmp/out_081.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_084.grib2 write to ../Regional_tmp/out_084.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_087.grib2 write to ../Regional_tmp/out_087.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_090.grib2 write to ../Regional_tmp/out_090.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_093.grib2 write to ../Regional_tmp/out_093.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_096.grib2 write to ../Regional_tmp/out_096.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_099.grib2 write to ../Regional_tmp/out_099.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_102.grib2 write to ../Regional_tmp/out_102.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_105.grib2 write to ../Regional_tmp/out_105.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_108.grib2 write to ../Regional_tmp/out_108.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_111.grib2 write to ../Regional_tmp/out_111.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_114.grib2 write to ../Regional_tmp/out_114.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_117.grib2 write to ../Regional_tmp/out_117.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_120.grib2 write to ../Regional_tmp/out_120.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_123.grib2 write to ../Regional_tmp/out_123.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_126.grib2 write to ../Regional_tmp/out_126.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_129.grib2 write to ../Regional_tmp/out_129.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_132.grib2 write to ../Regional_tmp/out_132.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_135.grib2 write to ../Regional_tmp/out_135.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_138.grib2 write to ../Regional_tmp/out_138.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_141.grib2 write to ../Regional_tmp/out_141.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_144.grib2 write to ../Regional_tmp/out_144.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_147.grib2 write to ../Regional_tmp/out_147.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_150.grib2 write to ../Regional_tmp/out_150.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_153.grib2 write to ../Regional_tmp/out_153.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_156.grib2 write to ../Regional_tmp/out_156.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_159.grib2 write to ../Regional_tmp/out_159.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_162.grib2 write to ../Regional_tmp/out_162.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_165.grib2 write to ../Regional_tmp/out_165.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_168.grib2 write to ../Regional_tmp/out_168.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_171.grib2 write to ../Regional_tmp/out_171.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_174.grib2 write to ../Regional_tmp/out_174.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_177.grib2 write to ../Regional_tmp/out_177.nc finished=true
+NetcdfDatataset read from ../Regional_tmp/out_180.grib2 write to ../Regional_tmp/out_180.nc finished=true
+Traceback (most recent call last):
+  File "/Tailored/codes/main_run_operational.py", line 101, in <module>
+    step_11.plot_winds_and_MSLP(now)
+  File "/Tailored/codes/step11_read_and_plot_all_regional_data.py", line 71, in plot_winds_and_MSLP
+    fig, ax = plt.subplots(figsize=(8,8))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 1613, in subplots
+Grib file downloaded and stored as ../Regional_tmp/out_033.grib2
+../Regional_tmp/out_033.grib2 converted to ../Regional_tmp/out_033.nc
+Grib file downloaded and stored as ../Regional_tmp/out_036.grib2
+../Regional_tmp/out_036.grib2 converted to ../Regional_tmp/out_036.nc
+Grib file downloaded and stored as ../Regional_tmp/out_039.grib2
+../Regional_tmp/out_039.grib2 converted to ../Regional_tmp/out_039.nc
+Grib file downloaded and stored as ../Regional_tmp/out_042.grib2
+../Regional_tmp/out_042.grib2 converted to ../Regional_tmp/out_042.nc
+Grib file downloaded and stored as ../Regional_tmp/out_045.grib2
+../Regional_tmp/out_045.grib2 converted to ../Regional_tmp/out_045.nc
+Grib file downloaded and stored as ../Regional_tmp/out_048.grib2
+../Regional_tmp/out_048.grib2 converted to ../Regional_tmp/out_048.nc
+Grib file downloaded and stored as ../Regional_tmp/out_051.grib2
+../Regional_tmp/out_051.grib2 converted to ../Regional_tmp/out_051.nc
+Grib file downloaded and stored as ../Regional_tmp/out_054.grib2
+../Regional_tmp/out_054.grib2 converted to ../Regional_tmp/out_054.nc
+Grib file downloaded and stored as ../Regional_tmp/out_057.grib2
+../Regional_tmp/out_057.grib2 converted to ../Regional_tmp/out_057.nc
+Grib file downloaded and stored as ../Regional_tmp/out_060.grib2
+../Regional_tmp/out_060.grib2 converted to ../Regional_tmp/out_060.nc
+Grib file downloaded and stored as ../Regional_tmp/out_063.grib2
+../Regional_tmp/out_063.grib2 converted to ../Regional_tmp/out_063.nc
+Grib file downloaded and stored as ../Regional_tmp/out_066.grib2
+../Regional_tmp/out_066.grib2 converted to ../Regional_tmp/out_066.nc
+Grib file downloaded and stored as ../Regional_tmp/out_069.grib2
+../Regional_tmp/out_069.grib2 converted to ../Regional_tmp/out_069.nc
+Grib file downloaded and stored as ../Regional_tmp/out_072.grib2
+../Regional_tmp/out_072.grib2 converted to ../Regional_tmp/out_072.nc
+Grib file downloaded and stored as ../Regional_tmp/out_075.grib2
+../Regional_tmp/out_075.grib2 converted to ../Regional_tmp/out_075.nc
+Grib file downloaded and stored as ../Regional_tmp/out_078.grib2
+../Regional_tmp/out_078.grib2 converted to ../Regional_tmp/out_078.nc
+Grib file downloaded and stored as ../Regional_tmp/out_081.grib2
+../Regional_tmp/out_081.grib2 converted to ../Regional_tmp/out_081.nc
+Grib file downloaded and stored as ../Regional_tmp/out_084.grib2
+../Regional_tmp/out_084.grib2 converted to ../Regional_tmp/out_084.nc
+Grib file downloaded and stored as ../Regional_tmp/out_087.grib2
+../Regional_tmp/out_087.grib2 converted to ../Regional_tmp/out_087.nc
+Grib file downloaded and stored as ../Regional_tmp/out_090.grib2
+../Regional_tmp/out_090.grib2 converted to ../Regional_tmp/out_090.nc
+Grib file downloaded and stored as ../Regional_tmp/out_093.grib2
+../Regional_tmp/out_093.grib2 converted to ../Regional_tmp/out_093.nc
+Grib file downloaded and stored as ../Regional_tmp/out_096.grib2
+../Regional_tmp/out_096.grib2 converted to ../Regional_tmp/out_096.nc
+Grib file downloaded and stored as ../Regional_tmp/out_099.grib2
+../Regional_tmp/out_099.grib2 converted to ../Regional_tmp/out_099.nc
+Grib file downloaded and stored as ../Regional_tmp/out_102.grib2
+../Regional_tmp/out_102.grib2 converted to ../Regional_tmp/out_102.nc
+Grib file downloaded and stored as ../Regional_tmp/out_105.grib2
+../Regional_tmp/out_105.grib2 converted to ../Regional_tmp/out_105.nc
+Grib file downloaded and stored as ../Regional_tmp/out_108.grib2
+../Regional_tmp/out_108.grib2 converted to ../Regional_tmp/out_108.nc
+Grib file downloaded and stored as ../Regional_tmp/out_111.grib2
+../Regional_tmp/out_111.grib2 converted to ../Regional_tmp/out_111.nc
+Grib file downloaded and stored as ../Regional_tmp/out_114.grib2
+../Regional_tmp/out_114.grib2 converted to ../Regional_tmp/out_114.nc
+Grib file downloaded and stored as ../Regional_tmp/out_117.grib2
+../Regional_tmp/out_117.grib2 converted to ../Regional_tmp/out_117.nc
+Grib file downloaded and stored as ../Regional_tmp/out_120.grib2
+../Regional_tmp/out_120.grib2 converted to ../Regional_tmp/out_120.nc
+Grib file downloaded and stored as ../Regional_tmp/out_123.grib2
+../Regional_tmp/out_123.grib2 converted to ../Regional_tmp/out_123.nc
+Grib file downloaded and stored as ../Regional_tmp/out_126.grib2
+../Regional_tmp/out_126.grib2 converted to ../Regional_tmp/out_126.nc
+Grib file downloaded and stored as ../Regional_tmp/out_129.grib2
+../Regional_tmp/out_129.grib2 converted to ../Regional_tmp/out_129.nc
+Grib file downloaded and stored as ../Regional_tmp/out_132.grib2
+../Regional_tmp/out_132.grib2 converted to ../Regional_tmp/out_132.nc
+Grib file downloaded and stored as ../Regional_tmp/out_135.grib2
+../Regional_tmp/out_135.grib2 converted to ../Regional_tmp/out_135.nc
+Grib file downloaded and stored as ../Regional_tmp/out_138.grib2
+../Regional_tmp/out_138.grib2 converted to ../Regional_tmp/out_138.nc
+Grib file downloaded and stored as ../Regional_tmp/out_141.grib2
+../Regional_tmp/out_141.grib2 converted to ../Regional_tmp/out_141.nc
+Grib file downloaded and stored as ../Regional_tmp/out_144.grib2
+../Regional_tmp/out_144.grib2 converted to ../Regional_tmp/out_144.nc
+Grib file downloaded and stored as ../Regional_tmp/out_147.grib2
+../Regional_tmp/out_147.grib2 converted to ../Regional_tmp/out_147.nc
+Grib file downloaded and stored as ../Regional_tmp/out_150.grib2
+../Regional_tmp/out_150.grib2 converted to ../Regional_tmp/out_150.nc
+Grib file downloaded and stored as ../Regional_tmp/out_153.grib2
+../Regional_tmp/out_153.grib2 converted to ../Regional_tmp/out_153.nc
+Grib file downloaded and stored as ../Regional_tmp/out_156.grib2
+../Regional_tmp/out_156.grib2 converted to ../Regional_tmp/out_156.nc
+Grib file downloaded and stored as ../Regional_tmp/out_159.grib2
+../Regional_tmp/out_159.grib2 converted to ../Regional_tmp/out_159.nc
+Grib file downloaded and stored as ../Regional_tmp/out_162.grib2
+../Regional_tmp/out_162.grib2 converted to ../Regional_tmp/out_162.nc
+Grib file downloaded and stored as ../Regional_tmp/out_165.grib2
+../Regional_tmp/out_165.grib2 converted to ../Regional_tmp/out_165.nc
+Grib file downloaded and stored as ../Regional_tmp/out_168.grib2
+../Regional_tmp/out_168.grib2 converted to ../Regional_tmp/out_168.nc
+Grib file downloaded and stored as ../Regional_tmp/out_171.grib2
+../Regional_tmp/out_171.grib2 converted to ../Regional_tmp/out_171.nc
+Grib file downloaded and stored as ../Regional_tmp/out_174.grib2
+../Regional_tmp/out_174.grib2 converted to ../Regional_tmp/out_174.nc
+Grib file downloaded and stored as ../Regional_tmp/out_177.grib2
+../Regional_tmp/out_177.grib2 converted to ../Regional_tmp/out_177.nc
+Grib file downloaded and stored as ../Regional_tmp/out_180.grib2
+../Regional_tmp/out_180.grib2 converted to ../Regional_tmp/out_180.nc
+12
+../Regional_tmp/out_012.nc
+24
+../Regional_tmp/out_024.nc
+36
+../Regional_tmp/out_036.nc
+48
+../Regional_tmp/out_048.nc
+60
+../Regional_tmp/out_060.nc
+72
+../Regional_tmp/out_072.nc
+84
+../Regional_tmp/out_084.nc
+96
+../Regional_tmp/out_096.nc
+108
+../Regional_tmp/out_108.nc
+120
+../Regional_tmp/out_120.nc
+132
+../Regional_tmp/out_132.nc
+144
+../Regional_tmp/out_144.nc
+156
+../Regional_tmp/out_156.nc
+168
+../Regional_tmp/out_168.nc
+180
+../Regional_tmp/out_180.nc
+    fig = figure(**fig_kw)
+          ^^^^^^^^^^^^^^^^
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 934, in figure
+    manager = new_figure_manager(
+              ^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 464, in new_figure_manager
+    _warn_if_gui_out_of_main_thread()
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 441, in _warn_if_gui_out_of_main_thread
+    canvas_class = cast(type[FigureCanvasBase], _get_backend_mod().FigureCanvas)
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 280, in _get_backend_mod
+    switch_backend(rcParams._get("backend"))  # type: ignore[attr-defined]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda/lib/python3.11/site-packages/matplotlib/pyplot.py", line 350, in switch_backend
+    raise ImportError(
+ImportError: Cannot load backend 'TkAgg' which requires the 'tk' interactive framework, as 'headless' is currently running
+Model run Successful!
